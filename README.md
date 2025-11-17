@@ -4,7 +4,7 @@
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.0-blue)](https://www.php.net/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-Classe PHP pour calculer les ouvertures et fermetures de classes dans les écoles françaises selon les effectifs et seuils réglementaires.
+Classe PHP pour calculer les ouvertures et fermetures de classes dans les écoles selon les effectifs et barêmes décisionnels.
 
 ## 📋 Fonctionnalités
 
@@ -14,14 +14,6 @@ Classe PHP pour calculer les ouvertures et fermetures de classes dans les école
 - Support des écoles maternelles, élémentaires et primaires
 - Gestion des dispositifs TPS fléchés
 - Génération de tableaux HTML récapitulatifs
-
-## 🚀 Installation
-
-```bash
-composer require votre-org/calculateur-structure-scolaire
-```
-
-Ou copier directement la classe `CalculateurStructureScolaire.php` dans votre projet.
 
 ## 📖 Usage
 
@@ -192,9 +184,6 @@ $result = $calc
 - PHP >= 8.0
 - Extensions : aucune
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! Ouvrez une issue ou soumettez une pull request.
 
 ## 📄 Licence
 
@@ -202,10 +191,5 @@ MIT
 
 ## 👤 Auteur
 
-Votre nom - [@votre_handle](https://twitter.com/votre_handle)
+Vincent LECERF - DSDEN60
 
-## 🔗 Liens utiles
-
-- [Documentation complète](https://docs.example.com)
-- [Issues](https://github.com/votre-org/calculateur-structure-scolaire/issues)
-- [Changelog](CHANGELOG.md)
